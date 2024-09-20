@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**francys2008/francys2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e francys gabriel moreira helmr 
 
-Here are some ideas to get you started:
+- estou estundando na [Alura] (https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javaScript
+- Utilizo esse para minha organização e compartilhamento dos meus projetos desonvolvidoa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entra em contato comigo ✔💎
+
+francysmarly@gmail.com
+
+@francys gabrierl
+
+![]![image](https://github.com/user-attachments/assets/3685b237-05e2-4052-982f-67f57a055c5c)
